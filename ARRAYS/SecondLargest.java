@@ -1,6 +1,3 @@
-package ARRAYS;
-
-import java.util.Arrays;
 
 // Problem: Find the second largest Element in An Array.
 // Link: https://www.geeksforgeeks.org/find-second-largest-element-array/
