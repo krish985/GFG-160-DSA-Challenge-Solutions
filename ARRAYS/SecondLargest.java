@@ -2,7 +2,7 @@
 // Problem: Find the second largest Element in An Array.
 // Link: https://www.geeksforgeeks.org/find-second-largest-element-array/
 // Difficulty: Easy.
-// Companies tag : Sap Labs , TCS , Accenture , Sentinel One.
+// Companies tag : Sap Labs , TCS , Accenture , Sentinel One .
 
 public class SecondLargest {
     // Time Complexity : O(n).  // take single parse.
