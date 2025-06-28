@@ -1,6 +1,6 @@
 // Problem: Search in Rotated Sorted Array.
 // Platform Availaible : Leetcode - 33 , GFG.
-// Difficulty: Easy.
+// Difficulty: Medium.
 // Companies tag : Paytm , Flipkart , Amazon , Microsoft , Snapdeal , D-E-Shaw ,FactSet , Hike 
 // MakeMyTrip , Intuit , Adobe , Google , BankBazaar ,Times Internet , Uber , Cisco , Meta
 // Goldman Sachs , VMware , Apple.
