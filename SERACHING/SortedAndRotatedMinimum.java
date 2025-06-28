@@ -5,7 +5,7 @@
 // Times internet , Meta , Bloomberge , Apple , Google , Oracle , VMware.
 
 public class SortedAndRotatedMinimum {
-    // TIME COMPLEXITY : O(N).
+    // TIME COMPLEXITY : O(Log N).
     // SPACE COMPLEXITY : O(1).
     public static int findMin(int arr[]){
         // STEP 1 : Calculate start or end pointing 1idx  or lastidx.
