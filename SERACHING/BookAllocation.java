@@ -5,6 +5,8 @@
 // Zoho , Flipkart , Stripe , Airbnb , Dropbox.
 
 public class BookAllocation {
+    // TIME COMPLEXITY : O(LogN * N) N For Range An another n for check is Valid.
+    // SPACE COMPLEXITY : O(1).
     public static boolean isValid(int A[], int maxPageAllowed, int k) {
         // STEP 1 : take first student and try to allocate page.
         // initially.
